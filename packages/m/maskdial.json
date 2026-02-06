@@ -19,7 +19,7 @@
     }
   ],
   "license": "MIT",
-  "filename": "maskdial.umd.min.js",
+  "filename": "maskdial.umd.global.min.js",
   "autoupdate": {
     "source": "npm",
     "target": "maskdial",
@@ -27,10 +27,7 @@
       {
         "basePath": "dist",
         "files": [
-          "maskdial.umd.js",
-          "maskdial.umd.min.js",
-          "maskdial.jquery.umd.js",
-          "maskdial.jquery.umd.min.js"
+          "maskdial.umd.global.js"
         ]
       }
     ]
